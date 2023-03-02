@@ -1,7 +1,7 @@
 {
     "name": "dashtail",
     "version": "1.0.0",
-    "description": "",
+    "description": "🎨 Customizable dashboard for all your microservices",
     "scripts": {
         "lint": "next lint",
         "build": "next build",
